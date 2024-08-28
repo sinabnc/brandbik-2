@@ -1518,7 +1518,8 @@ header.main-header .header-sticky.active{
 .scrolling-ticker{
 	padding: 15px 0;
 	color: var(--white-color);
-	background-color: var(--accent-color);
+    background-image: linear-gradient(to right, #3773fd 0%, #24a0ed  51%, #17c2e1  100%);
+
 }
 
 .scrolling-ticker-box{
@@ -1622,7 +1623,7 @@ header.main-header .header-sticky.active{
 	background: var(--secondary-color);
 	color: var(--primary-color);
     text-transform: capitalize;
-    padding: 15px 20px 15px 20px;
+    padding: 10px 15px 10px 2px;
 	margin-right: 20px;
     border-radius: 100px;
     transition: 0.4s ease-in-out;
@@ -1633,7 +1634,7 @@ header.main-header .header-sticky.active{
 }
 
 .our-projects-nav ul li:hover{
-    background-image: linear-gradient(to right, #3773fd 0%, #24a0ed  51%, #17c2e1  100%);
+    background-image: linear-gradient(to right, #24a0ed  51%, #17c2e1  100%);
 	color: var(--white-color);
 }
 
