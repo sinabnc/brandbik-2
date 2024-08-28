@@ -186,7 +186,7 @@ body{
     background-image: linear-gradient(to right, #3773fd 0%, #24a0ed  51%, #17c2e1  100%);
 	text-transform: capitalize;
 	padding: 15px 45px 15px 20px;
-	border: 2px solid #77A1D3;
+	border: 2px solid #24a0ed;
 	border-radius: 100px;
 	transition: 0.3s ease-in-out;
 	position: relative;
