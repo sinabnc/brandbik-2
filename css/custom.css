@@ -1719,7 +1719,7 @@ header.main-header .header-sticky.active{
 }
 
 .contact-content-title a{
-    background-color:#0d0285;
+    background-image: linear-gradient(to right, #24a0ed  51%, #17c2e1  100%);
     color: var(--white-color);
     border-radius: 50%;
     display: flex;
@@ -1786,8 +1786,8 @@ header.main-header .header-sticky.active{
 }
 
 .contact-detail-body ul li a{
-	background-color: var(--accent-color);
-	border: 2px solid var(--accent-color);
+    background-image: linear-gradient(to right, #24a0ed  51%, #17c2e1  100%);
+	border: 2px solid #17c2e1 ;
 	width: 50px;
 	height: 50px;
 	border-radius: 50%;
